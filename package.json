@@ -9,13 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "clsx": "^2.1.1",
     "framer-motion": "^11.1.7",
     "next": "14.2.3",
     "react": "^18",
     "react-dom": "^18",
     "react-icons": "^5.2.0",
     "sass": "^1.76.0",
-    "scss": "^0.2.4"
+    "scss": "^0.2.4",
+    "tailwind-merge": "^2.3.0"
   },
   "devDependencies": {
     "@types/node": "^20",

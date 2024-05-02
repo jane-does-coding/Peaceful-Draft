@@ -1,24 +1,24 @@
 export const links = [
-  {
-    title: "Projects",
-    href: "/projects",
-  },
-  {
-    title: "Experience",
-    href: "/experience",
-  },
-  {
-    title: "About Me",
-    href: "/about",
-  },
-  {
-    title: "Blog",
-    href: "/blog",
-  },
-  {
-    title: "Contact",
-    href: "/contact",
-  },
+	{
+		title: "Home",
+		href: "/",
+	},
+	{
+		title: "Dashboard",
+		href: "/dashboard",
+	},
+	{
+		title: "Settings",
+		href: "/settings",
+	},
+	{
+		title: "Tasks",
+		href: "/tasks",
+	},
+	{
+		title: "Contact",
+		href: "/contact",
+	},
 ];
 /* 
 export const footerLinks = [
