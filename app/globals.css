@@ -17,3 +17,23 @@
 .rounded-vid {
 	border-radius: 3rem !important;
 }
+
+/* width */
+::-webkit-scrollbar {
+	width: 7px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+	background: rgb(52, 52, 52);
+	border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+	background: #3d3d3d;
+}

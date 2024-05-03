@@ -4,10 +4,10 @@ import { motion } from "framer-motion";
 export default function Landing() {
 	return (
 		<motion.div
-			initial={{ opacity: 0, y: "20vh" }}
+			initial={{ opacity: 0, y: "10vh" }}
 			animate={{ opacity: 1, y: 0 }}
 			transition={{ duration: 0.45, delay: 0 }}
-			className="w-fit rounded-[3rem] overflow-hidden mx-auto min-h-[100vh] z-[1]"
+			className="w-fit rounded-[3rem] mx-auto min-h-[100vh] z-[1] relative"
 		>
 			<div className="rounded-[3rem] overflow-hidden">
 				<video
