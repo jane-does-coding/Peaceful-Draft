@@ -11,7 +11,7 @@ const Page = () => {
 			<br />
 			<br />
 			<h1 className="exo text-white text-[3rem] mb-10 mx-auto text-center">
-				What's up for today?
+				What&apos;s up for today?
 			</h1>
 			<div className="w-[65vw] mx-auto flex flex-col shadow-xl">
 				<Card isPast />
